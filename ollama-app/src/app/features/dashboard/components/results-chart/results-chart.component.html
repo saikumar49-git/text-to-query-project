@@ -1,0 +1,31 @@
+<div class="chart-wrapper">
+    <div class="chart-controls">
+        <mat-button-toggle-group [value]="chartType" (change)="setChartType($event.value)" aria-label="Chart Type"
+            class="chart-toggle" hideSingleSelectionIndicator="true">
+            <mat-button-toggle value="bar">
+                <mat-icon>bar_chart</mat-icon>
+            </mat-button-toggle>
+            <mat-button-toggle value="line">
+                <mat-icon>show_chart</mat-icon>
+            </mat-button-toggle>
+            <mat-button-toggle value="pie">
+                <mat-icon>pie_chart</mat-icon>
+            </mat-button-toggle>
+            <mat-button-toggle value="doughnut">
+                <mat-icon>donut_large</mat-icon>
+            </mat-button-toggle>
+        </mat-button-toggle-group>
+
+        <div class="chart-meta" *ngIf="labelColumn">
+            <span class="meta-label">Label: <strong>{{ formatHeader(labelColumn) }}</strong></span>
+            <span class="meta-label" *ngIf="numericColumns.length > 0">
+                Metrics: <strong>{{ numericColumns.length }}</strong> column(s)
+            </span>
+        </div>
+    </div>
+
+    <div class="chart-container">
+        <canvas baseChart [data]="chartData" [options]="chartOptions" [type]="chartType">
+        </canvas>
+    </div>
+</div>

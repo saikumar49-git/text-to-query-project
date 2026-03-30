@@ -1,0 +1,224 @@
+.chat-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 250px;
+    max-height: 480px;
+    padding: 8px;
+    background: transparent;
+}
+
+.chat-feed {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    scroll-behavior: smooth;
+
+    &::-webkit-scrollbar {
+        width: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: var(--border-color);
+        border-radius: 4px;
+    }
+}
+
+.chat-greeting {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+    color: var(--text-secondary);
+    margin-top: 32px;
+
+    .greeting-icon {
+        font-size: 32px;
+        margin-bottom: 16px;
+        opacity: 0.8;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0 0 8px;
+        letter-spacing: -0.02em;
+    }
+
+    p {
+        margin: 0;
+        font-size: 1rem;
+    }
+}
+
+.chat-message-row {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.chat-bubble {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    max-width: 80%;
+    padding: 12px 18px;
+    border-radius: var(--border-radius-lg);
+    font-size: 0.95rem;
+    line-height: 1.4;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition-fast);
+
+    &.user-bubble {
+        background-color: var(--bg-color);
+        color: var(--text-primary);
+        border: 1px solid var(--border-color);
+        border-bottom-right-radius: 4px;
+
+        &:hover {
+            box-shadow: var(--shadow-md);
+
+            .resend-action {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+.resend-action {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: var(--transition-fast);
+
+    &:hover {
+        background: var(--surface-color);
+        color: var(--primary-color);
+        box-shadow: var(--shadow-sm);
+    }
+
+    mat-icon {
+        font-size: 18px;
+        width: 18px;
+        height: 18px;
+    }
+}
+
+.animate-slide-in {
+    animation: slideInUp 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.chat-input-container {
+    padding: 16px;
+    background: transparent;
+    flex-shrink: 0;
+}
+
+.input-box-wrapper {
+    display: flex;
+    align-items: center;
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 24px;
+    padding: 6px 6px 6px 16px;
+    transition: var(--transition-fast);
+    box-shadow: var(--shadow-sm);
+
+    &:focus-within {
+        border-color: var(--primary-color);
+        box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+        background: var(--surface-color);
+    }
+
+    &.is-loading {
+        opacity: 0.7;
+        pointer-events: none;
+    }
+}
+
+.chat-input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    outline: none;
+    font-family: inherit;
+    font-size: 1rem;
+    color: var(--text-primary);
+    padding: 10px 0;
+
+    &::placeholder {
+        color: var(--text-secondary);
+    }
+}
+
+.action-btn {
+    background: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--text-secondary);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    transition: var(--transition-fast);
+
+    &.send-btn {
+        background: transparent;
+        margin-left: 8px;
+
+        &.active {
+            background: var(--primary-color);
+            color: white;
+
+            &:hover {
+                background: var(--primary-hover);
+                box-shadow: var(--shadow-sm);
+                transform: translateY(-2px);
+            }
+        }
+    }
+
+    &.clear-btn:hover {
+        background: var(--border-color);
+    }
+
+    mat-icon {
+        font-size: 20px;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.error-text {
+    display: block;
+    margin-top: 8px;
+    font-size: 0.85rem;
+    color: #ef4444;
+    padding-left: 16px;
+}

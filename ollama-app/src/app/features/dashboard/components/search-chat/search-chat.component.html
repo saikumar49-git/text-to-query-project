@@ -1,0 +1,39 @@
+<div class="chat-wrapper">
+    <div class="chat-feed" #chatFeed>
+        <div class="chat-greeting animate-fade-in-up" *ngIf="history.length === 0">
+            <div class="greeting-icon">✨</div>
+            <h2>What would you like to know?</h2>
+            <p>Ask a natural language query about your data</p>
+        </div>
+
+        <div class="chat-message-row" *ngFor="let item of history.slice().reverse()">
+            <div class="chat-bubble user-bubble animate-slide-in">
+                <span>{{ item.query }}</span>
+                <button class="resend-action" (click)="onHistorySelect(item.query)" matTooltip="Run again">
+                    <mat-icon>refresh</mat-icon>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <form (ngSubmit)="onSubmit()" class="chat-input-container">
+        <div class="input-box-wrapper" [class.is-loading]="isLoading">
+            <input type="text" [formControl]="searchControl" (keydown)="onKeyDown($event)"
+                placeholder="Message your data... (e.g. Sales in Q1)" [readonly]="isLoading" class="chat-input" />
+
+            <button *ngIf="searchControl.value && !isLoading" type="button" class="action-btn clear-btn"
+                (click)="searchControl.reset()">
+                <mat-icon>close</mat-icon>
+            </button>
+
+            <button type="submit" [disabled]="searchControl.invalid || isLoading" class="action-btn send-btn"
+                [class.active]="searchControl.valid">
+                <mat-icon *ngIf="!isLoading">arrow_upward</mat-icon>
+                <mat-spinner diameter="20" *ngIf="isLoading"></mat-spinner>
+            </button>
+        </div>
+        <mat-error class="error-text" *ngIf="searchControl.touched && searchControl.hasError('minlength')">
+            Please enter at least 2 characters.
+        </mat-error>
+    </form>
+</div>

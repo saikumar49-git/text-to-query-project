@@ -1,0 +1,4 @@
+<router-outlet></router-outlet>
+<div class="global-loading-overlay animate-fade-in-up" *ngIf="loadingService.isLoading$ | async">
+    <app-skeleton-loader></app-skeleton-loader>
+</div>
