@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ollama.API", "Ollama.API\Ollama.API.csproj", "{9E020D9C-6013-46DD-9EEF-496BD9E98162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ollama.Core", "ollama.Core\ollama.Core.csproj", "{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ollama.infrastructure", "ollama.infrastructure\ollama.infrastructure.csproj", "{5A25CD3F-C600-41CC-B756-ADF69AFF419E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ollama.common", "ollama.common\ollama.common.csproj", "{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B616B97-404E-42DC-8039-E59AEA0527E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E041E493-AC9E-4663-A5C2-A317352785C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E020D9C-6013-46DD-9EEF-496BD9E98162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E020D9C-6013-46DD-9EEF-496BD9E98162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E020D9C-6013-46DD-9EEF-496BD9E98162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E020D9C-6013-46DD-9EEF-496BD9E98162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A25CD3F-C600-41CC-B756-ADF69AFF419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A25CD3F-C600-41CC-B756-ADF69AFF419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A25CD3F-C600-41CC-B756-ADF69AFF419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A25CD3F-C600-41CC-B756-ADF69AFF419E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E020D9C-6013-46DD-9EEF-496BD9E98162} = {7B616B97-404E-42DC-8039-E59AEA0527E8}
+		{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC} = {7B616B97-404E-42DC-8039-E59AEA0527E8}
+		{5A25CD3F-C600-41CC-B756-ADF69AFF419E} = {7B616B97-404E-42DC-8039-E59AEA0527E8}
+		{AB5A943C-3C1E-48BB-B99B-41C24B5482F1} = {7B616B97-404E-42DC-8039-E59AEA0527E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD8DD60-3416-40DE-920D-DE41DA811804}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.deps.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfoInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfo.cs
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\refint\ollama.infrastructure.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.infrastructure\obj\Debug\net8.0\ref\ollama.infrastructure.dll
+D:\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.deps.json
+D:\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.dll
+D:\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.pdb
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfoInputs.cache
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfo.cs
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.csproj.CoreCompileInputs.cache
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.dll
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\refint\ollama.infrastructure.dll
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.pdb
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ref\ollama.infrastructure.dll
+D:\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.runtimeconfig.json
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.csproj.AssemblyReference.cache
+D:\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.genruntimeconfig.cache
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.deps.json
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.runtimeconfig.json
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.dll
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.infrastructure.pdb
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.csproj.AssemblyReference.cache
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfoInputs.cache
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.AssemblyInfo.cs
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.csproj.CoreCompileInputs.cache
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.dll
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\refint\ollama.infrastructure.dll
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.pdb
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.infrastructure.genruntimeconfig.cache
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ref\ollama.infrastructure.dll
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.common.dll
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.Core.dll
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.common.pdb
+D:\ollama project\Ollama\ollama.infrastructure\bin\Debug\net8.0\ollama.Core.pdb
+D:\ollama project\Ollama\ollama.infrastructure\obj\Debug\net8.0\ollama.i.1EB17AE3.Up2Date

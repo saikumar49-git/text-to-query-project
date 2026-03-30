@@ -1,0 +1,277 @@
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.exe
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.deps.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.runtimeconfig.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.AssemblyReference.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfoInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfo.cs
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.CoreCompileInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.Ollama.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ollama.API.props
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ollama.API.props
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ollama.API.props
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\scopedcss\bundle\Ollama.API.styles.css
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.Up2Date
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\refint\Ollama.API.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.genruntimeconfig.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\Ollama.API\obj\Debug\net8.0\ref\Ollama.API.dll
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.AssemblyReference.cache
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfoInputs.cache
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfo.cs
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.CoreCompileInputs.cache
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.dll
+D:\Ollama\Ollama.API\obj\Debug\net8.0\refint\Ollama.API.dll
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.pdb
+D:\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.json
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.exe
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.deps.json
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.runtimeconfig.json
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.pdb
+D:\Ollama\Ollama.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.dll
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.pdb
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.pdb
+D:\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.pdb
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.Ollama.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ollama.API.props
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ollama.API.props
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ollama.API.props
+D:\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ollama\Ollama.API\obj\Debug\net8.0\scopedcss\bundle\Ollama.API.styles.css
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.Up2Date
+D:\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.genruntimeconfig.cache
+D:\Ollama\Ollama.API\obj\Debug\net8.0\ref\Ollama.API.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\appsettings.json
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.exe
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.deps.json
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.runtimeconfig.json
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Ollama.API.pdb
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.common.pdb
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.Core.pdb
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ollama.infrastructure.pdb
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.AssemblyReference.cache
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfoInputs.cache
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.AssemblyInfo.cs
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.CoreCompileInputs.cache
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.Ollama.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ollama.API.props
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ollama.API.props
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ollama.API.props
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\scopedcss\bundle\Ollama.API.styles.css
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.csproj.Up2Date
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.dll
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\refint\Ollama.API.dll
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.pdb
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.genruntimeconfig.cache
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\ref\Ollama.API.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Azure.Core.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Humanizer.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ollama project\Ollama\Ollama.API\obj\Debug\net8.0\Ollama.API.MvcApplicationPartsAssemblyInfo.cs

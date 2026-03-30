@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ollama project\\Ollama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\services\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\services\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|d:\\ollama project\\ollama\\ollama.api\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|solutionrelative:ollama.api\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}|ollama.common\\ollama.common.csproj|d:\\ollama project\\ollama\\ollama.common\\models\\queryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}|ollama.common\\ollama.common.csproj|solutionrelative:ollama.common\\models\\queryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\dbcontext\\epppsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\dbcontext\\epppsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\services\\sqlexecutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\services\\sqlexecutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\services\\schemaextractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\services\\schemaextractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\services\\sqlvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\services\\sqlvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|d:\\ollama project\\ollama\\ollama.core\\interfaces\\isqlvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|solutionrelative:ollama.core\\interfaces\\isqlvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|d:\\ollama project\\ollama\\ollama.core\\interfaces\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|solutionrelative:ollama.core\\interfaces\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}|ollama.common\\ollama.common.csproj|d:\\ollama project\\ollama\\ollama.common\\models\\queryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A943C-3C1E-48BB-B99B-41C24B5482F1}|ollama.common\\ollama.common.csproj|solutionrelative:ollama.common\\models\\queryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|d:\\ollama project\\ollama\\ollama.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|solutionrelative:ollama.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|d:\\ollama project\\ollama\\ollama.core\\ollama.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EE5E6D6-3977-45DB-A9AD-04BDB0C485EC}|ollama.Core\\ollama.Core.csproj|solutionrelative:ollama.core\\ollama.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|d:\\ollama project\\ollama\\ollama.api\\ollama.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|solutionrelative:ollama.api\\ollama.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|d:\\ollama project\\ollama\\ollama.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E020D9C-6013-46DD-9EEF-496BD9E98162}|Ollama.API\\Ollama.API.csproj|solutionrelative:ollama.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|d:\\ollama project\\ollama\\ollama.infrastructure\\ollama.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A25CD3F-C600-41CC-B756-ADF69AFF419E}|ollama.infrastructure\\ollama.infrastructure.csproj|solutionrelative:ollama.infrastructure\\ollama.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\Services\\OllamaService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\OllamaService.cs",
+              "RelativeToolTip": "ollama.infrastructure\\Services\\OllamaService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowGMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:11:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchemaExtractionService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SchemaExtractionService.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\Services\\SchemaExtractionService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SchemaExtractionService.cs",
+              "RelativeToolTip": "ollama.infrastructure\\Services\\SchemaExtractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:49:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\QueryService.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\Services\\QueryService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\QueryService.cs",
+              "RelativeToolTip": "ollama.infrastructure\\Services\\QueryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:24:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EPPPSDBContext.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\DBContext\\EPPPSDBContext.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\DBContext\\EPPPSDBContext.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\DBContext\\EPPPSDBContext.cs",
+              "RelativeToolTip": "ollama.infrastructure\\DBContext\\EPPPSDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:29:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISqlValidatorService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.Core\\Interfaces\\ISqlValidatorService.cs",
+              "RelativeDocumentMoniker": "ollama.Core\\Interfaces\\ISqlValidatorService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.Core\\Interfaces\\ISqlValidatorService.cs",
+              "RelativeToolTip": "ollama.Core\\Interfaces\\ISqlValidatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:25:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlValidatorService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SqlValidatorService.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\Services\\SqlValidatorService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SqlValidatorService.cs",
+              "RelativeToolTip": "ollama.infrastructure\\Services\\SqlValidatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:18:45.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlExecutionService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SqlExecutionService.cs",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\Services\\SqlExecutionService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\Services\\SqlExecutionService.cs",
+              "RelativeToolTip": "ollama.infrastructure\\Services\\SqlExecutionService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:50:49.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\Ollama.API\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "Ollama.API\\Controllers\\QueryController.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\Ollama.API\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "Ollama.API\\Controllers\\QueryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:19:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryResponse.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.common\\Models\\QueryResponse.cs",
+              "RelativeDocumentMoniker": "ollama.common\\Models\\QueryResponse.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.common\\Models\\QueryResponse.cs",
+              "RelativeToolTip": "ollama.common\\Models\\QueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:31:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueryRequest.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.common\\Models\\QueryRequest.cs",
+              "RelativeDocumentMoniker": "ollama.common\\Models\\QueryRequest.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.common\\Models\\QueryRequest.cs",
+              "RelativeToolTip": "ollama.common\\Models\\QueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:31:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOllamaService.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.Core\\Interfaces\\IOllamaService.cs",
+              "RelativeDocumentMoniker": "ollama.Core\\Interfaces\\IOllamaService.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.Core\\Interfaces\\IOllamaService.cs",
+              "RelativeToolTip": "ollama.Core\\Interfaces\\IOllamaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:38:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ollama.Core.csproj",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.Core\\ollama.Core.csproj",
+              "RelativeDocumentMoniker": "ollama.Core\\ollama.Core.csproj",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.Core\\ollama.Core.csproj",
+              "RelativeToolTip": "ollama.Core\\ollama.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T07:17:33.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ollama.infrastructure.csproj",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\ollama.infrastructure\\ollama.infrastructure.csproj",
+              "RelativeDocumentMoniker": "ollama.infrastructure\\ollama.infrastructure.csproj",
+              "ToolTip": "D:\\ollama project\\Ollama\\ollama.infrastructure\\ollama.infrastructure.csproj",
+              "RelativeToolTip": "ollama.infrastructure\\ollama.infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T10:04:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ollama.API.csproj",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\Ollama.API\\Ollama.API.csproj",
+              "RelativeDocumentMoniker": "Ollama.API\\Ollama.API.csproj",
+              "ToolTip": "D:\\ollama project\\Ollama\\Ollama.API\\Ollama.API.csproj",
+              "RelativeToolTip": "Ollama.API\\Ollama.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T09:54:42.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\Ollama.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ollama.API\\Program.cs",
+              "ToolTip": "D:\\ollama project\\Ollama\\Ollama.API\\Program.cs",
+              "RelativeToolTip": "Ollama.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:51:41.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ollama project\\Ollama\\Ollama.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ollama.API\\appsettings.json",
+              "ToolTip": "D:\\ollama project\\Ollama\\Ollama.API\\appsettings.json",
+              "RelativeToolTip": "Ollama.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T09:49:45.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

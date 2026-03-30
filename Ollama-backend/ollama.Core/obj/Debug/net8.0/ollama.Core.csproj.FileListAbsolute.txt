@@ -1,0 +1,47 @@
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.deps.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\bin\Debug\net8.0\ollama.infrastructure.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\bin\Debug\net8.0\ollama.infrastructure.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.AssemblyReference.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfoInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfo.cs
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.CoreCompileInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.C.34B65A15.Up2Date
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\refint\ollama.Core.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.Core\obj\Debug\net8.0\ref\ollama.Core.dll
+D:\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.deps.json
+D:\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.dll
+D:\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.pdb
+D:\Ollama\ollama.Core\bin\Debug\net8.0\ollama.infrastructure.dll
+D:\Ollama\ollama.Core\bin\Debug\net8.0\ollama.infrastructure.pdb
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.AssemblyReference.cache
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfoInputs.cache
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfo.cs
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.CoreCompileInputs.cache
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.C.34B65A15.Up2Date
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.dll
+D:\Ollama\ollama.Core\obj\Debug\net8.0\refint\ollama.Core.dll
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.pdb
+D:\Ollama\ollama.Core\obj\Debug\net8.0\ref\ollama.Core.dll
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.deps.json
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.dll
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.pdb
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.AssemblyReference.cache
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfoInputs.cache
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.AssemblyInfo.cs
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.csproj.CoreCompileInputs.cache
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.C.34B65A15.Up2Date
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.dll
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\refint\ollama.Core.dll
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.pdb
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ref\ollama.Core.dll
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.common.dll
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.common.pdb
+D:\ollama project\Ollama\ollama.Core\bin\Debug\net8.0\ollama.Core.runtimeconfig.json
+D:\ollama project\Ollama\ollama.Core\obj\Debug\net8.0\ollama.Core.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EGhpUte75KZIjWglPzWuCgYjWcCBPQfv/Gt7jOimFVc=",
+  "Source": "Ollama.API",
+  "BasePath": "_content/Ollama.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

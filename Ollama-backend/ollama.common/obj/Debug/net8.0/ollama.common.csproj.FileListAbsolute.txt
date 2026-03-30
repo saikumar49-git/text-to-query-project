@@ -1,0 +1,33 @@
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.deps.json
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfoInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfo.cs
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.csproj.CoreCompileInputs.cache
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\refint\ollama.common.dll
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.pdb
+C:\Users\saikumar.k.DWPGLOBALCORP\source\repos\Ollama\ollama.common\obj\Debug\net8.0\ref\ollama.common.dll
+D:\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.deps.json
+D:\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.dll
+D:\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.pdb
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfoInputs.cache
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfo.cs
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.csproj.CoreCompileInputs.cache
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.dll
+D:\Ollama\ollama.common\obj\Debug\net8.0\refint\ollama.common.dll
+D:\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.pdb
+D:\Ollama\ollama.common\obj\Debug\net8.0\ref\ollama.common.dll
+D:\ollama project\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.deps.json
+D:\ollama project\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.dll
+D:\ollama project\Ollama\ollama.common\bin\Debug\net8.0\ollama.common.pdb
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfoInputs.cache
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.AssemblyInfo.cs
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.csproj.CoreCompileInputs.cache
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.dll
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\refint\ollama.common.dll
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ollama.common.pdb
+D:\ollama project\Ollama\ollama.common\obj\Debug\net8.0\ref\ollama.common.dll
